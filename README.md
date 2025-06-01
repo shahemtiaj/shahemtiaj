@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m passionate about transforming ideas into animated vi
 - 📧 Email: contact@shahemtiaj.info  
 - 🎞️ Portfolio: Check website  
 - 🐦 Twitter: [@shahemtiaj](https://twitter.com/shahemtiaj)  
-- 📷 Instagram: [@shahemtiaj](https://instagram.com/shahemtiaj)
+- 📷 Instagram: [@shah_emtiaj](https://instagram.com/shah_emtiaj)
 
 ---
 
