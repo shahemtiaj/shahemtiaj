@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?...">
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F75590&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shah+Emtiaj;Video+Editor+%7C+Motion+Designer;WordPress+Designer+%26+Elementor+Expert;Let's+build+something+great!" alt="Typing SVG" />
 </h1>
