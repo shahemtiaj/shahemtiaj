@@ -1,76 +1,81 @@
-<!-- ✨ Futuristic Title with Typing Effect and Button-Style Background -->
-<div align="center" style="background: linear-gradient(135deg, #6e00ff, #b300b3); padding: 20px; border-radius: 16px; box-shadow: 0 0 25px #a020f0;">
+<!-- 🚀 Futuristic Name Section with Typing and Live Clock -->
+
+<div align="center" style="background: linear-gradient(135deg, #0f0f3e, #3f0d99); padding: 30px; border-radius: 20px; box-shadow: 0 0 25px #8a2be2;">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Shah+Emtiaj;WordPress+Designer+%7C+Elementor+Expert" alt="Typing SVG" />
 
+  <br/>
+  <a href="https://shahemtiaj.info" target="_blank">
+    🌐 <strong>shahemtiaj.info</strong>
+  </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=shahemtiaj&label=Profile+Views&color=blueviolet&style=plastic" alt="View Count"/>
+
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Time-Futuristic_Clock-black?style=for-the-badge&logo=clockify&logoColor=white" alt="clock badge"/>
+  <p style="color:white; font-family: 'Orbitron'; font-size: 18px;">🕒 <span id="liveClock">Loading clock...</span></p>
+
 </div>
 
----
-
-## 👋 About Me
-
-Hi there! I'm **Shah Emtiaj**, a passionate **WordPress Designer** and **Elementor Expert** based in Bangladesh. I specialize in building clean, responsive, and conversion-focused websites that help brands stand out.
-
----
-
-## 🛠️ Skills & Tools
-
-### 🧩 Specialties
-- WordPress Theme Customization
-- Elementor Pro Design
-- Responsive Web Design
-- Landing Page Optimization
-- WooCommerce Setup
-- Speed & SEO Optimization
-
-### ⚙️ Tools I Use
-- Elementor Pro
-- WordPress (Twenty Twenty-Five, Hello Theme, etc.)
-- HTML5 & CSS3 (basic styling if needed)
-- Adobe XD / Figma (for mockups)
-- WPForms / Fluent Forms
-- Rank Math SEO / Yoast
+<script>
+  // Live Clock (for GitHub markdown just shows fallback, real HTML pages will work fine)
+  const clockSpan = document.getElementById('liveClock');
+  if (clockSpan) {
+    setInterval(() => {
+      const now = new Date();
+      clockSpan.innerText = now.toLocaleTimeString();
+    }, 1000);
+  }
+</script>
 
 ---
 
-## 📦 Services I Provide
+## 👨‍💻 WordPress & Elementor Specialist
 
-| Service                        | Details                                                           |
-|-------------------------------|-------------------------------------------------------------------|
-| 🔧 WordPress Website Design    | Fully responsive & mobile-friendly websites                       |
-| 🎨 Elementor Custom Layouts    | Eye-catching UI/UX with animation                                 |
-| 🛒 WooCommerce Integration     | E-commerce setup with cart, checkout, and product pages           |
-| 🚀 Speed & Performance Boost   | Caching, image optimization, lazy load setup                      |
-| 🧩 Plugin Setup & Tweak        | Setup forms, popups, sliders, and more                            |
-| 🛡️ Security Hardening          | Basic WordPress security configuration                            |
+- I create ultra-responsive and blazing fast websites with **Elementor Pro** and **custom designs**.
+- From landing pages to full WooCommerce sites — I do it all.
 
 ---
 
-## 🌐 Connect With Me
+## 🎞️ Video Editing Side
 
-- 🌍 **Website**: [verifycustomerbd.pro](https://verifycustomerbd.pro)
-- 💼 **Portfolio**: Available upon request
-- 📧 **Email**: shah.emtiaj@gmail.com
-- 🧠 **Blog**: Coming Soon (Tech tips + WordPress tutorials)
+I also work as a **Video Editor**. My current focus:
 
----
+- 🎬 After Effects animations (3D-style transitions, kinetic text)
+- ✂️ CapCut & Premiere Pro (multi-cam edits, cinematic color grading)
+- 📦 Animation Composer, stock overlay & effects
 
-## 🏆 My Promise
-
-I deliver fast, functional, and modern websites tailored to your needs. Whether you're a business, a personal brand, or a blogger — I’ll make your vision come alive online.
+✅ I mix **stock + overlay + transitions** to create compelling visual stories.
 
 ---
 
-## 🔗 Tech I'm Currently Exploring
+## 🛠️ Services
 
-- ⚙️ WordPress REST API
-- 🔐 Website Verification Tools (like FraudGuard API)
-- 🧠 Headless WordPress (future goal)
+| 🚀 Service                     | 🔍 Details                                                    |
+|-------------------------------|---------------------------------------------------------------|
+| WordPress Web Design          | Clean, responsive, modern UI                                 |
+| Elementor Pro Layouts         | Pixel-perfect drag & drop UI/UX                              |
+| WooCommerce Store Setup       | Full shop, cart, checkout, payment setup                     |
+| Speed Optimization            | Caching, CDN, Lazy Load, GTmetrix fix                        |
+| Video Editing                 | Social media edits, cinematic transitions, animations        |
 
 ---
 
-## 🧲 Let’s Build Something Awesome Together!
+## 📈 Real-Time Features (🧪 Experimental)
 
-> *Your website isn't just a page — it’s your identity. Let’s make it unforgettable.*
+- ⏰ Real-Time Clock display
+- 👁️‍🗨️ View Counter badge
+- 🧠 Typing-effect dynamic title
+- 🌐 Domain Highlight: **shahemtiaj.info**
+
+---
+
+## 🧲 Let's Work Together!
+
+Want a futuristic website or dynamic video content?  
+I’m always ready to collaborate.
+
+> **"Design speaks. Let's make yours scream futuristic!"**
 
 ---
