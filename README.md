@@ -1,12 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Shah+Emtiaj!;Freelance+Video+Editor.;Motion+Designer.;WordPress+Developer+%26+Elementor+Expert!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&vCenter=true&width=500&lines=Shah+Emtiaj;Professional+Video+Editor+%7C+Motion+Designer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎬%20Video%20Editor-blueviolet?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎨%20Motion%20Designer-ff69b4?style=for-the-badge&logo=aftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🌐%20WordPress%20Designer-008080?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/⚡%20Elementor%20Expert-e62e74?style=for-the-badge&logo=elementor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔥%20Shah%20Emtiaj%20-%20Motion%20Designer%20%7C%20Video%20Editor%20%7C%20WordPress%20Pro-black?style=for-the-badge&labelColor=0d1117&color=purple&logo=thunderbolt&logoColor=white" />
 </p>
 
 ---
@@ -37,12 +34,3 @@ Welcome to my GitHub! I love turning ideas into visuals — from motion graphics
 - 📺 YouTube: [@shahemtiaj](https://youtube.com/@shahemtiaj)
 
 ---
-
-### 💫 Extras
-
-```css
-Shah Emtiaj = {
-  fontFamily: 'poppins, roboto, montserrat, orbitron',
-  animation: 'color-cycle + font-cycle',
-  attitude: 'Creative, Clean, Curious'
-}
