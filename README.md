@@ -1,70 +1,48 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F75590&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shah+Emtiaj;Video+Editor+%7C+Motion+Designer;WordPress+Designer+%26+Elementor+Expert;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Shah+Emtiaj!;Freelance+Video+Editor.;Motion+Designer.;WordPress+Developer+%26+Elementor+Expert!" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎬%20Video%20Editor-blueviolet?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎨%20Motion%20Designer-ff69b4?style=for-the-badge&logo=aftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐%20WordPress%20Designer-008080?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡%20Elementor%20Expert-e62e74?style=for-the-badge&logo=elementor&logoColor=white"/>
+</p>
 
 ---
 
-## 🎬 Freelance Video Editor | 🎨 Motion Designer | 🌐 WordPress Designer
+### 🎯 About Me
 
 Welcome to my GitHub! I love turning ideas into visuals — from motion graphics and short-form content to smooth WordPress websites with Elementor.
 
 ---
 
-## 🔧 My Toolbox  
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
+### 🧰 My Toolbox
+
+| Toolset          | Level |
+|------------------|-------|
+| Adobe Premiere Pro | ![90%](https://progress-bar.dev/90/) |
+| After Effects      | ![80%](https://progress-bar.dev/80/) |
+| Elementor & WP     | ![85%](https://progress-bar.dev/85/) |
+| CapCut             | ![95%](https://progress-bar.dev/95/) |
+| Photoshop          | ![60%](https://progress-bar.dev/60/) |
 
 ---
 
-## 🚀 My Experience
+### 🌐 Find Me Online
 
-| Skill                         | Level             |
-|------------------------------|-------------------|
-| 🎬 Adobe After Effects        | ▓▓▓▓▓▓▓▓▓░ 90%     |
-| 🎞️ Adobe Premiere Pro        | ▓▓▓▓▓▓▓▓░░ 85%     |
-| ✍️ CapCut                     | ▓▓▓▓▓▓▓░░░ 75%     |
-| 🌐 WordPress + Elementor      | ▓▓▓▓▓▓▓▓░░ 85%     |
-| 🧠 Animation Composer         | ▓▓▓▓▓▓▓▓░░ 80%     |
-| 📽️ 3D/Camera Keyframes        | ▓▓▓▓▓▓░░░░ 60%     |
+- 📸 Instagram: [@shah_emtiaj](https://instagram.com/shah_emtiaj)
+- 🐦 Twitter: [@shahemtiaj](https://twitter.com/shahemtiaj)
+- 💼 LinkedIn: [@shahemtiaj](https://linkedin.com/in/shahemtiaj)
+- 📺 YouTube: [@shahemtiaj](https://youtube.com/@shahemtiaj)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced 3D camera movement in After Effects
-- Elementor custom widgets & API integration
-- UI animation logic (scroll & hover-based)
+### 💫 Extras
 
----
-
-## 📫 Let’s Connect
-
-| Platform     | Link |
-|--------------|------|
-| 🌐 Website    | [shahemtiaj.info](https://shahemtiaj.info/) |
-| 📧 Email      | contact@shahemtiaj.info |
-| 🐦 Twitter    | [@shahemtiaj](https://twitter.com/shahemtiaj) |
-| 👨‍💼 LinkedIn | [@shahemtiaj](https://linkedin.com/in/shahemtiaj) |
-| 🎥 YouTube    | [@shahemtiaj](https://youtube.com/@shahemtiaj) |
-| 📷 Instagram  | [@shah_emtiaj](https://instagram.com/shah_emtiaj) |
-| 🎵 TikTok     | [@shahemtiaj](https://tiktok.com/@shahemtiaj) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahemtiaj&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahemtiaj&layout=compact&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahemtiaj&color=blue" alt="Profile views" />
-</p>
-
----
-
-> *"Creativity is intelligence having fun."* – Albert Einstein  
-> Thanks for visiting!
+```css
+Shah Emtiaj = {
+  fontFamily: 'poppins, roboto, montserrat, orbitron',
+  animation: 'color-cycle + font-cycle',
+  attitude: 'Creative, Clean, Curious'
+}
