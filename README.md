@@ -1,85 +1,144 @@
-<h1 align="center">𝑯𝒆𝒚, 𝑰'𝒎 𝗦𝗵𝗮𝗵 𝗘𝗺𝘁𝗶𝗮𝗷 👨‍💻</h1>
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shah Emtiaj | GitHub Profile</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: #0f0f0f;
+      color: #f5f5f7;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: rgba(255,255,255,0.05);
+      border-radius: 20px;
+      padding: 2rem;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    }
+    .typing {
+      font-size: 2rem;
+      font-weight: bold;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: .15em solid #f5f5f7;
+      animation: typing 3s steps(22), blink .5s step-end infinite alternate;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+    .logos img {
+      height: 50px;
+      margin: 0.5rem;
+      filter: grayscale(100%) brightness(1.2);
+    }
+    .progress {
+      margin: 1rem 0;
+    }
+    .bar {
+      background: #444;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .bar-inner {
+      height: 20px;
+      text-align: right;
+      padding-right: 5px;
+      line-height: 20px;
+      background: linear-gradient(to right, #0f0, #0ff);
+      color: #000;
+      font-weight: bold;
+    }
+    .section-title {
+      margin-top: 2rem;
+      font-size: 1.2rem;
+      font-weight: bold;
+      border-left: 5px solid #999;
+      padding-left: 1rem;
+    }
+    .stats-img {
+      width: 100%;
+      border-radius: 16px;
+      margin: 1rem 0;
+      box-shadow: 0 5px 15px rgba(255,255,255,0.1);
+    }
+    .views-counter {
+      text-align: center;
+      margin: 2rem 0;
+      font-size: 1rem;
+      background: rgba(255,255,255,0.05);
+      padding: 1rem;
+      border-radius: 12px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    }
+    .views-counter img {
+      vertical-align: middle;
+      height: 25px;
+      margin-right: 0.5rem;
+    }
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="typing">Shah Emtiaj</div><div class="section-title">Expert</div>
+<div class="logos">
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/adobe-after-effects.png" alt="After Effects" />
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/adobe-premiere-pro.png" alt="Premiere Pro" />
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/capcut.png" alt="CapCut" />
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/wordpress.png" alt="WordPress" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Video+Editor+%7C+Motion+Artist;Part-Time+Web+Developer;Elementor+Expert+%26+WP+Builder;CapCut%2C+After+Effects%2C+Premiere+User" alt="Typing Animation" />
-</p>
+<div class="section-title">Experience</div>
+<div class="progress">
+  After Effects
+  <div class="bar"><div class="bar-inner" style="width: 70%">70%</div></div>
+</div>
+<div class="progress">
+  Premiere Pro
+  <div class="bar"><div class="bar-inner" style="width: 85%">85%</div></div>
+</div>
+<div class="progress">
+  CapCut
+  <div class="bar"><div class="bar-inner" style="width: 95%">95%</div></div>
+</div>
+<div class="progress">
+  WordPress
+  <div class="bar"><div class="bar-inner" style="width: 90%">90%</div></div>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shah-emtiaj&label=Profile+Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
+<div class="section-title">Reach Me</div>
+<p><strong>Website:</strong> <a href="https://shahemtiaj.info" target="_blank" style="color:#0ff;">shahemtiaj.info</a></p>
+<p><strong>Email:</strong> <a href="mailto:shahemtiajahmed@gmail.com" style="color:#0ff;">shahemtiajahmed@gmail.com</a></p>
 
----
+<div class="section-title">GitHub Stats</div>
+<img class="stats-img" src="https://github-readme-stats.vercel.app/api?username=shahemtiaj&show_icons=true&theme=dark&icon_color=00ffff&text_color=f5f5f7&bg_color=0f0f0f" alt="GitHub Stats" />
 
-## 🎥 Full-Time: Video Editor
+<div class="section-title">Most Used Languages</div>
+<img class="stats-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahemtiaj&layout=compact&theme=dark&text_color=f5f5f7&bg_color=0f0f0f" alt="Top Languages" />
 
-- 🛠 Tools I Use: **CapCut PC**, **Adobe Premiere Pro**, **After Effects**
-- 🎬 Working on YouTube content, reels, and cinematic edits
-- 🌐 My Website: [shahemtiaj.info](https://shahemtiaj.info)
+<div class="views-counter">
+  <img src="https://img.icons8.com/ios-glyphs/30/00ffff/visible.png" alt="views icon">
+  <img src="https://komarev.com/ghpvc/?username=shahemtiaj&style=flat-square&color=00ffff&label=Profile+Views" alt="Profile Views" />
+</div>
 
----
+<footer>
+  Create with passion, edit with precision. ~ Shah Emtiaj
+</footer>
 
-## 🧑‍💻 Part-Time: Web Developer
-
-- 💡 WordPress & Elementor Specialist
-- 🌐 Comfortable with APIs, custom layouts, design systems
-- 🔥 I focus on building practical, simple, and useful solutions
-
----
-
-## 📊 My Experience
-
-```
-📹 Video Editing         ████████████████████ 90%  
-🌐 WordPress/Elementor   ████████████████░░░░ 80%  
-💻 HTML/CSS/JS           ████████████░░░░░░░░ 60%  
-🔧 API Integration       █████████░░░░░░░░░░░ 50%
-```
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shah-emtiaj&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah-emtiaj&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shah-emtiaj&theme=dark&hide_border=true"/>
-</p>
-
----
-
-## 🕒 Real-Time Clock (Live Preview Button)
-
-<p align="center">
-  <a href="https://codepen.io/dulabhai/full/poMzvKM" target="_blank">
-    <img src="https://img.shields.io/badge/🕒_Live_Clock-Click_to_View-36BCF7?style=for-the-badge" alt="live clock"/>
-  </a>
-</p>
-
----
-
-## 📫 Reach Me
-
-<p align="center">
-  <a href="mailto:shahemtiajahmad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shah-emtiaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/shah_emtiaj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-## 💬 Quote
-
-> “Create with passion, edit with precision.” – *Shah Emtiaj*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
-</p>
+  </div>
+</body>
+</html>
