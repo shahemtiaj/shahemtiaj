@@ -19,10 +19,10 @@
 
 | Tool           | Level |
 |----------------|-------|
-| After Effects  | ![70%](https://progress-bar.dev/70/?width=150&color=9999FF&title=AE) |
-| Premiere Pro   | ![85%](https://progress-bar.dev/85/?width=150&color=9999FF&title=PP) |
-| CapCut         | ![95%](https://progress-bar.dev/95/?width=150&color=000000&title=CC) |
-| WordPress      | ![90%](https://progress-bar.dev/90/?width=150&color=21759B&title=WP) |
+| After Effects  | 70% |
+| Premiere Pro   | 80% |
+| CapCut         | 95% |
+| WordPress      | 90% |
 
 ---
 
